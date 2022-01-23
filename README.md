@@ -53,7 +53,7 @@ As you can see in the picture above, the link to the Fighting Utility is broken,
 
 ## License
 
-*Technomancers* © 2021 - 2022 Adam Loyd
+*Technomancers, A Sprawlrunners Supplement* © 2021 - 2022 Adam Loyd
 
 Foundry VTT conversion by Thomas Engelbert.
 
