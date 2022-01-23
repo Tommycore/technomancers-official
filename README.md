@@ -8,7 +8,7 @@
 - [Support](#support)
 
 ## Buying the Module
-You can buy the module on DriveThruRPG.
+You can buy the module on [DriveThruRPG](https://www.drivethrurpg.com/product/384282/Technomancers-A-Sprawlrunners-Supplement--FoundryVTT-Module).
 
 ## Installation guide
 1. Once purchased, you can download the module as an archive.
