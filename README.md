@@ -1,10 +1,14 @@
 # Technomancers - Official Support repo for the Foundry VTT conversion
 
 Table of Contents
+- [Buying the Module](#buying-the-module)
 - [Installation guide](#installation-guide)
 - [Content](#content)
 - [Interaction with other modules](#interaction-with-other-modules)
 - [Support](#support)
+
+### Buying the Module
+You can buy the module on DriveThruRPG.
 
 ### Installation guide
 1. Once purchased, you can download the module as an archive.
@@ -29,13 +33,17 @@ Contains all the actor files to use for sprites, for use with the optional Techn
 #### Edges Compendium
 This compendium contains the Edges for use with base technomancy; Technosorceror-specific Edges are found in the Technomancy Compendium.
 
+![What's in the module](https://github.com/Tommycore/technomancers-official/blob/main/img/contents.jpg)
+
 #### Limitations
 Due to licensing limitations, powers that have a different description than they do in the core rule book, come as items with descriptions and a link to the original power, but without actual game relevant stats, as pictured below.
 ![What powers look like](https://github.com/Tommycore/technomancers-official/blob/main/img/samplepower.jpg)
 
 ### Interaction with other modules
 All documents within the module are linked to references to either the module itself, the [Sprawlrunners module](https://www.drivethrurpg.com/product/351063/Sprawlrunners--FoundryVTT-Module), or the [Savage Worlds Adventure Edition Core Rules module](https://gitlab.com/peginc/core-rules-issues). Those links will obviously only work if you have both of these modules installed and activated. This module relies on the base content modules as much as the PDF relies on the Sprawlrunner book and the *Savage Worlds Adventure Edition* core rule book.
+
 ![Activate base content modules](https://github.com/Tommycore/technomancers-official/blob/main/img/activatemodules.jpg)
+
 As you can see in the picture above, the link to the Fighting Utility is broken, because the Sprawlrunners module has not been activated. Clicking on either `Resilient` or `Very Resilient` on the other hand, will open up the respective entry from the Savage Worlds Core module, as that has been activated.
 
 ### Support
